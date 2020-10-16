@@ -26,5 +26,5 @@ let Square = class extends Shape {
 
 };
 
-console.log(new Square(2).calcPerimeter());
-console.log(new Square(2).calcArea());
+console.log(new Square(5).calcPerimeter());
+console.log(new Square(5).calcArea());
